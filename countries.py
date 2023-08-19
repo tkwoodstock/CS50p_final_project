@@ -7,8 +7,6 @@ from file_functions.countries_writer import write_countries
 from file_functions.analysis import analysis_countries
 
 
-#PUT ALL FUNCTIONS IN A FILE (not sure this will be marked correctly by CS50p checker, do afterwards in a file called f.py)
-
 max = 10 # maximum number of countries for analysis, can be changed accordingly
 
 def main():
