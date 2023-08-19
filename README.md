@@ -101,7 +101,7 @@ dictionaries). See 2.2 for function description
 
 # 2. Functions file: 'file_functions'
 
-## 2.1. 'countries_writer.py'
+## 2.1. countries_writer.py
 The write countries function is this file checks if the user already has the file of sorted countries
 (sorted_countries.txt), if not, the function checks if the user has a file of unsorted countries (countries_raw.csv).
 If there is no file of unsorted countries, the function pulls 246 countries from a request to a
