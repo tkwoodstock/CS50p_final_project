@@ -2,9 +2,10 @@
 
 #### Video Demo:  <https://youtu.be/Dni5MiR7Or0>
 
-To use the program, required files:
-    -countries.py
-    -file_functions
+#### To use the program, required files: 
+'countries.py'
+'file_functions/analysis.py' 
+'file_functions/countries_writer.py'
 
 # Contents:
 1. Main file: 'countries.py' containing 9 functions
