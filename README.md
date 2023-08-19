@@ -7,20 +7,21 @@
 
 # Contents:
 1. Main file: 'countries.py' containing 9 functions
-    1.1. read_countries (contains write_countries from 'countries_writer.py' , see 2.1)
-    1.2. check_countries
-    1.3. near_match
-    1.4. misspell_match
-    1.5. abbreviate_match
-    1.6. recommend options
-    1.7. get_data
-    1.8. round_sig_figs
-    1.9. confirm_selection
-    1.10 analysis_countries (located within 'analysis.py' , see 2.2)
-2. File of functions (file_functions) used by main file:
-    2.1. 'countries_writer.py'
-    2.2. 'analysis.py'
-----------------------------------------------
+    1.1. read_countries (contains write_countries from 'countries_writer.py' , see 2.1)  
+    1.2. check_countries  
+    1.3. near_match   
+    1.4. misspell_match   
+    1.5. abbreviate_match   
+    1.6. recommend options  
+    1.7. get_data  
+    1.8. round_sig_figs  
+    1.9. confirm_selection  
+    1.10 analysis_countries (located within 'analysis.py' , see 2.2)  
+2. File of functions (file_functions) used by main file:  
+    2.1. 'countries_writer.py'  
+    2.2. 'analysis.py'  
+
+
 
 # 1. Main file: 'countries.py'
 Prompts users for countries of the world. The user can then compare different metrics for each country in a list or through
