@@ -1,9 +1,0 @@
-#Modules requried (install with: "pip install modulename") to run project.py (called countries.py on github).
-#Module names:
-os
-re
-art
-sys
-requests
-csv
-matplotlib
