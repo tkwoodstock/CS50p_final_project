@@ -1,4 +1,4 @@
-README
+README - Harvard CS50p final project
 
 To use the program, required files:
     -countries.py
