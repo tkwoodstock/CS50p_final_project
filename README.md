@@ -10,6 +10,13 @@
     - 'file_functions/analysis.py'
     - 'file_functions/countries_writer.py'
 3. pip install all modules outlined in requirements.txt
+    - os
+    - re
+    - art
+    - sys
+    - requests
+    - csv
+    - matplotlib
 
 # Contents:
 1. Main file: 'countries.py' containing 9 functions  
