@@ -18,7 +18,7 @@
     - csv
     - matplotlib
 
-# Contents:
+## Contents:
 1. Main file, 'countries.py' containing 9 functions:
     1.1. read_countries (contains write_countries from 'countries_writer.py' , see 2.1)  
     1.2. check_countries  
