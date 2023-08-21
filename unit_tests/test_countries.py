@@ -30,7 +30,7 @@ def test_mispell_match():
     #10-14 letter words can have 2 letter mispelled
     assert misspell_match("Uned States", list) == "United States"
     assert misspell_match("Unitd Staes", list) == "United States"
-    assert misspell_match("Uned States", list) == "United States"
+    assert misspell_match("United Stas", list) == "United States"
     assert misspell_match("Ued States", list) == ""
     assert misspell_match("Unite Saes", list) == ""
 
