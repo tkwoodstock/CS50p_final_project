@@ -1,0 +1,32 @@
+import csv
+import os
+
+#raw countries file: https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+
+def main():
+    write_countries()
+
+
+#creates a file of sorted countries
+def write_countries():
+
+    #if there isn't a file of sorted countries, open the csv of countries, read into memory and write a sorted list
+    if not os.path.isfile("countries_sorted.txt"):
+
+        with open("countries_raw.csv") as file:
+            reader = csv.DictReader(file , fieldnames = ["country" , "latitude" , "longitude" , "name"])
+            ls = list(reader)
+            countries = []
+            for row in ls[1:]:
+                countries.append(row["name"])
+
+        #write sorted list into txt file
+        with open("countries_sorted.txt" , "w") as file:
+            for c in sorted(countries):
+                file.write(f"{c}\n")
+    else:
+        print("'countries_sorted' file already exists")
+
+
+if __name__=="__main__":
+    main()
