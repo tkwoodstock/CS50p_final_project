@@ -1,6 +1,6 @@
-from project import near_match
-from project import misspell_match
-from project import abbreviate_match
+from countries import near_match
+from countries import misspell_match
+from countries import abbreviate_match
 
 def test_near_match():
     list = ["Japan", "United States", "Poland", "Spain"]
