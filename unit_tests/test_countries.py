@@ -49,5 +49,3 @@ def test_abbreviate_match():
     assert abbreviate_match("hiami", list) == ""
 
 
-def test_recommend_options():
-    list = ["Japan", "", "United States", "Poland", "Spain"]
