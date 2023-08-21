@@ -13,7 +13,7 @@ def write_countries():
     #if there isn't a file of sorted countries, open the csv of countries, read into memory and write a sorted list
     if not os.path.isfile("countries_sorted.txt"):
 
-        with open("countries_raw.csv") as file:
+        with open("unsorted_countries.csv") as file:
             reader = csv.DictReader(file , fieldnames = ["country" , "latitude" , "longitude" , "name"])
             ls = list(reader)
             countries = []
