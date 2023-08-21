@@ -6,7 +6,7 @@
 
 #### To use the program, required files: 
 'countries.py'  
-'file_functions':  
+'file_functions': 
 - 'file_functions/analysis.py'    
 - 'file_functions/countries_writer.py'
 
