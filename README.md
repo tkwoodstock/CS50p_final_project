@@ -70,7 +70,7 @@ E.g., united states (12 letters) will match with (2 wrong characters): uited sat
 Takes a value (input) and list. Iterates over the list and searches for a match (case insensitive) with the input value if it is an abbreviation of any item in the list.
 E.g., US will match united states, uae will match united arab emirates.
 
-The word and is excluded from the abbreviation:
+The word 'and' is excluded from the abbreviation:
 E.g., HIMI matches: Heard Island and McDonald Islands (HIAMI will not match).
 
 ### 1.6. recommend_options(input, list)
