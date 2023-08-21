@@ -1,4 +1,4 @@
-#Modules requried (install with: "pip install modulename") to run project.py (called countries.py on github).
+#Modules requried (install with: "pip install modulename") to run countries.py.
 #Module names:
 os
 re
