@@ -4,11 +4,12 @@
 ## Video Demo:  <https://youtu.be/Dni5MiR7Or0>
 
 
-#### To use the program, required files: 
-1. 'countries.py'  
-2. 'file_functions':
+#### To use the program, the following is required: 
+1. 'countries.py' file  
+2. 'file_functions' folder containing:
     - 'file_functions/analysis.py'
     - 'file_functions/countries_writer.py'
+3. pip install all modules outlined in requirements.txt
 
 # Contents:
 1. Main file: 'countries.py' containing 9 functions  
