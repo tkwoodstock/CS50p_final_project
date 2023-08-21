@@ -9,7 +9,7 @@
 2. 'file_functions' folder containing:
     - 'file_functions/analysis.py'
     - 'file_functions/countries_writer.py'
-3. pip install all modules outlined in requirements.txt
+3. pip install all modules outlined in requirements.txt:
     - os
     - re
     - art
