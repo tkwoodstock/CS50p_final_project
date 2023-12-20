@@ -1,5 +1,3 @@
-#Modules requried (install with: "pip install modulename") to run countries.py.
-#Module names:
 os
 re
 art
