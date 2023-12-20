@@ -1,7 +1,0 @@
-os
-re
-art
-sys
-requests
-csv
-matplotlib
