@@ -1,4 +1,4 @@
-# Harvard CS50p final project: COUNTRIES
+# Tyler Woodstock Harvard CS50p final project: COUNTRIES
 
 
 ## Video Demo: <https://youtu.be/Dni5MiR7Or0>
