@@ -4,7 +4,7 @@
 ## Video Demo: <https://youtu.be/Dni5MiR7Or0>
 
 
-![cs50p_project_clip](https://github.com/tkwoodstock/CS50p_final_project/assets/92792893/6f71d6ee-5a03-4990-894f-a38121974268)
+![cs50p_project_clip_x2 5](https://github.com/tkwoodstock/CS50p_final_project/assets/92792893/030b1e88-5dd8-44f8-88c3-2e65bf72604b)
 
 
 
