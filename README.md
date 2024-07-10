@@ -4,6 +4,10 @@
 ## Video Demo: <https://youtu.be/Dni5MiR7Or0>
 
 
+![cs50p_project_clip](https://github.com/tkwoodstock/CS50p_final_project/assets/92792893/6f71d6ee-5a03-4990-894f-a38121974268)
+
+
+
 #### To use the program, the following is required: 
 1. 'countries.py' file  
 2. 'file_functions' folder containing:
